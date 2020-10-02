@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-[![TeslaCN's github stats](https://github-readme-stats.vercel.app/api?username=TeslaCN)](http://wwj.icu)
-
-[![TeslaCN's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TeslaCN&hide=html,javascript,css)](http://wwj.icu)
+<a href="http://wwj.icu">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=TeslaCN&show_icons=true" />
+</a>
+<a href="http://wwj.icu">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeslaCN&hide=html,javascript,css" />
+</a>
 
 <!--
 **TeslaCN/TeslaCN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
