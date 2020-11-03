@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <a href="http://wwj.icu">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=TeslaCN&show_icons=true&count_private=true" />
+  <img align="left" height=180px src="https://github-readme-stats.vercel.app/api?username=TeslaCN&show_icons=true&count_private=true" />
 </a>
 <a href="http://wwj.icu">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeslaCN&layout=compact&langs_count=10&hide=html,javascript,css" />
+  <img align="left" height=180px src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeslaCN&layout=compact&langs_count=10&hide=html,javascript,css" />
 </a>
 
 <!--
