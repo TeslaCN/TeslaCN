@@ -14,14 +14,6 @@
   <img align="right" height=190px src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeslaCN&layout=compact&langs_count=10&hide=html,javascript,css,freemarker" />
 </a>
 
-
-
-### 🔭 I’m currently working on ...
-- [apache/shardingsphere](https://github.com/apache/shardingsphere)
-- [apache/shardingsphere-elasticjob](https://github.com/apache/shardingsphere-elasticjob)
-- [apache/shardingsphere-elasticjob-ui](https://github.com/apache/shardingsphere-elasticjob-ui)
-
-
 ### About Me
 
 #### Skilled
@@ -57,4 +49,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+- [apache/shardingsphere](https://github.com/apache/shardingsphere)
+- [apache/shardingsphere-elasticjob](https://github.com/apache/shardingsphere-elasticjob)
+- [apache/shardingsphere-elasticjob-ui](https://github.com/apache/shardingsphere-elasticjob-ui)
+
 -->
+
+### 🔭 I’m currently working on
