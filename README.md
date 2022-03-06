@@ -21,12 +21,11 @@
 #### Competent
 
 
-
 - Netty, Vert.x
 - Spring Framework
 - Application performance tuning
 - MySQL, PostgreSQL
-- Protocols of databases (PostgreSQL/MySQL)
+- Protocols of databases (PostgreSQL/MySQL/openGauss)
 
 #### Average
 
