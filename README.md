@@ -56,7 +56,3 @@
 - [2022-09-03: TPC-C 场景下ShardingSphere 性能测试实战指南](https://wuweijie.oss-cn-shenzhen.aliyuncs.com/slides/20220903_ShardingSphere_meetup_Beijing_poster.jpg)  
   [稿件](https://wuweijie.oss-cn-shenzhen.aliyuncs.com/slides/20220903_ShardingSphere_meetup_Beijing.pdf)  
   [视频](https://www.bilibili.com/video/BV15Y4y1M7Jb/)
-
-#### 相关文章
-
-[借生态力量，openGauss突破性能瓶颈](https://mp.weixin.qq.com/s?__biz=MzI5MzIwNDI1MQ==&mid=2650227570&idx=6&sn=e100def98382fe76c76dbab57f7c2c56&chksm=f4765b06c301d21007596e26ea879c7a1b3e00f5597388904c0ebfe220dc17bcbbd5b92dde72&scene=27)
