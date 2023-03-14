@@ -1,4 +1,4 @@
-<a href="http://wwj.icu">
+<a href="https://github.com/TeslaCN">
   <img align="right" height=200px src="https://github-readme-stats.vercel.app/api?username=TeslaCN&show_icons=true&count_private=true" />
 </a>
 
@@ -8,17 +8,19 @@
 - Java
 - Vim ![Vim](https://www.vim.org/images/vim_on_fire.gif)
 
-<a href="http://wwj.icu">
+#### 胜任
+
+<a href="https://github.com/TeslaCN">
   <img align="right" height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeslaCN&layout=compact&langs_count=10&hide=html,javascript,css,freemarker" />
 </a>
-
-#### 胜任
 
 - Netty, Vert.x
 - Spring Framework
 - Application performance tuning
 - MySQL, PostgreSQL
 - Protocols of databases (PostgreSQL/MySQL/openGauss)
+
+
 
 #### 一般
 
